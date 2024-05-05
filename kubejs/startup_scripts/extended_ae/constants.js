@@ -8,9 +8,13 @@ global.EXPATTERNPROVIDER_DISABLED_ITEMS = [
     'expatternprovider:pattern_terminal_upgrade',
     'expatternprovider:drive_upgrade',
     'expatternprovider:ex_inscriber',
+    'expatternprovider:crystal_fixer',
+
 
     //в будущем будет крафт
-    'expatternprovider:crystal_fixer',
+    
+    /*
+    ,
     'expatternprovider:ex_charger',
     'expatternprovider:caner',
     'expatternprovider:ex_io_port',
@@ -33,4 +37,6 @@ global.EXPATTERNPROVIDER_DISABLED_ITEMS = [
     'expatternprovider:ingredient_buffer',
     'expatternprovider:ex_drive',
     'expatternprovider:ex_molecular_assembler',
+    
+    */
 ]
